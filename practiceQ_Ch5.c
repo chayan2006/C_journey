@@ -43,7 +43,10 @@ void Namaste ()
 void Bonjour ()
     {
       printf("Bonjour\n");
+#include <stdio.h>
+    }void m()
+    int main();
+    {
 
     }
-
-    
+    void
