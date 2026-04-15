@@ -29,3 +29,4 @@ Function types
 // Passing arguments to functions:  function can take  value (parameter)& give some value (return value)
 // void function : function that does not return any value, eg  void printhello()
 // int function : function that returns an integer value, eg int sum(inta, int b);
+//  
